@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"expanded":false,"name":"LeadHouseDownStairs","order":2,"parentId":2,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"LeadHouse","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"LeadHouse","order":1,"parentId":0,"scrollX":455.5,"scrollY":312.5},
 {"id":3,"expanded":false,"name":"test map","order":3,"parentId":2,"scrollX":819,"scrollY":461}
 ]
